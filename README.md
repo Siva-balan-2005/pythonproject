@@ -3,8 +3,8 @@ It provides EMI calculations, amortization schedules, prepayment simulations, an
 
 This project is designed using modular architecture, making it scalable, readable, and production-ready.
 
-🚀 Key Features
-✅ EMI Calculation Engine
+ Key Features
+ EMI Calculation Engine
 Computes monthly EMI using standard financial formula
 Calculates:
 Monthly EMI
@@ -12,7 +12,7 @@ Total interest payable
 Total payment
 Outstanding balance
 Provides full amortization schedule
-✅ Prepayment Simulator
+ Prepayment Simulator
 
 Supports multiple real-world scenarios:
 
